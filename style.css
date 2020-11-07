@@ -1,0 +1,18 @@
+.container {
+  margin: auto;
+  width: 100%;
+  text-align: center;
+}
+
+h1 {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.giphy-form {
+  margin-bottom: 20px;
+}
+
+.giphyImg {
+  margin: 10px;
+  border: 1px solid black;
+}
